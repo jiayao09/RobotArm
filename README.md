@@ -19,6 +19,7 @@ https://user-images.githubusercontent.com/110358483/185725174-6e9ee21b-cd90-49b7
 
 
 - Control by Wearable-Controller, check out more information here: https://github.com/jiayao09/Wearable_Controller.git
+<img src="https://user-images.githubusercontent.com/110358483/185727059-d2c78070-4f85-48c9-85f0-b0151b72b232.png" width=45% height=20%>
 
 (A video suppose to be here)
 
