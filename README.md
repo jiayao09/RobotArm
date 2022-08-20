@@ -6,11 +6,12 @@ https://user-images.githubusercontent.com/110358483/185725085-09091f4c-c75e-4899
 
 https://user-images.githubusercontent.com/110358483/185726008-0d00c303-87b9-40a1-b045-875e55abf965.mp4
 
+</br> PLAN FOR THE FURTURE:
 
-PLAN FOR THE FURTURE:
 Currently, the 3D printing process is inaccurate, making it challenging for some parts to move into place. I'm attempting to redesign and rebuild the claw section using laser cutting. 
 
 
+</br> EXAMPLE DEVELOPMENT:
 
 - Control by phone with the HC-06 Bluetooth module
 
