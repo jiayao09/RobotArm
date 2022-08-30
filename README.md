@@ -1,5 +1,6 @@
 # RobotArm
 This a robotic arm with a 4 DOF developed based on MeArm model for further development. Take a look at my BOM and assembly drawing PDF to build the same model.
+(check out start.ino)
 
 https://user-images.githubusercontent.com/110358483/185725085-09091f4c-c75e-4899-8eab-52e4dab4b233.mp4
 
@@ -13,7 +14,7 @@ Currently, the 3D printing process is inaccurate, making it challenging for some
 
 </br> EXAMPLE DEVELOPMENT:
 
-- Control by phone with the HC-06 Bluetooth module
+- Control by phone with the HC-06 Bluetooth module (check out start.ino)
 
 https://user-images.githubusercontent.com/110358483/185725174-6e9ee21b-cd90-49b7-b49f-77a15e82c952.mp4
 
