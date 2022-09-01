@@ -11,6 +11,16 @@ https://user-images.githubusercontent.com/110358483/185726008-0d00c303-87b9-40a1
 
 Currently, the 3D printing process is inaccurate, making it challenging for some parts to move into place. I'm attempting to redesign and rebuild the claw section using laser cutting. 
 
+</br>
+09/01: dxf file for new design is uploaded
+</br>
+Comparison between the two designs:
+
+https://user-images.githubusercontent.com/110358483/188026587-4dd684c1-31e9-49e9-b571-a7b5c6d323a1.mp4
+
+https://user-images.githubusercontent.com/110358483/188026592-fbc2d33a-8787-4fd3-a6a0-7dfd3e07784d.mp4
+
+
 
 </br> EXAMPLE DEVELOPMENT:
 
