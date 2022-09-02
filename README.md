@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/110358483/185726008-0d00c303-87b9-40a1
 
 </br> PLAN FOR THE FURTURE:
 
-Currently, the 3D printing process is inaccurate, making it challenging for some parts to move into place. I'm attempting to redesign and rebuild the claw section using laser cutting. 
+Currently, the 3D printing process is inaccurate, making it challenging for some parts to move into place. I'm attempting to redesign and rebuild the claw section by laser cutting some of the part. 
 
 </br>
 09/01: dxf file for new design is uploaded
