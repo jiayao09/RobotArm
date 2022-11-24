@@ -28,13 +28,13 @@ bool mode; // mode = 1: command contorl, mode = 0: keyboard control
 int moveStep = 3;
 
 void setup() {
-  base.attach(11);     // base 伺服舵机连接引脚11 舵机代号'b'
+  base.attach(11);     // base 
   delay(200);
-  rArm.attach(10);     // rArm 伺服舵机连接引脚10 舵机代号'r'
+  rArm.attach(10);     // rArm 
   delay(200);
-  fArm.attach(9);      // fArm 伺服舵机连接引脚9  舵机代号'f'
+  fArm.attach(9);      // fArm 
   delay(200);
-  claw.attach(6);      // claw 伺服舵机连接引脚6  舵机代号'c'
+  claw.attach(6);      // claw 
   delay(200);
   
   base.write(basePos);
