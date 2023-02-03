@@ -10,28 +10,22 @@ https://user-images.githubusercontent.com/110358483/185726008-0d00c303-87b9-40a1
 </br>
 
 #  RECENT UPDATE:
-Currently, the 3D printing process is inaccurate, making it challenging for some parts to move into place. I'm attempting to redesign and rebuild the claw section by laser cutting some of the part. 
+I've recently decided to increase the arm's degrees of freedom from 4 to 6. This design demo builds upon the Niryo One concept by adding new elements. The detail drawing and bill of materials (BOM) will be updated later. The new design expands on the original functionality by including new interfaces and hardware.
 
-</br>
-09/01: dxf file for new design is uploaded
-</br>
-Comparison between the two designs:
-
-https://user-images.githubusercontent.com/110358483/188026587-4dd684c1-31e9-49e9-b571-a7b5c6d323a1.mp4
-
-https://user-images.githubusercontent.com/110358483/188026592-fbc2d33a-8787-4fd3-a6a0-7dfd3e07784d.mp4
+https://user-images.githubusercontent.com/110358483/216531680-9f43c2e4-7e79-4f10-bad0-22ec088e3362.mp4
 
 
 </br>
-# FURTHER DEVELOPMENT:
 
-## Control by phone with the HC-06 Bluetooth module (check out start.ino)
+# Included Functions:
+
+### Control by phone with the HC-06 Bluetooth module (check out start.ino)
 
 https://user-images.githubusercontent.com/110358483/185725174-6e9ee21b-cd90-49b7-b49f-77a15e82c952.mp4
 
 </br>
 
-## Control by Wearable-Controller
+### Control by Wearable-Controller
 Check out more information here: https://github.com/jiayao09/Wearable_Controller.git
 - Sensor and control board:
    - Arduino uno
@@ -42,7 +36,7 @@ Check out more information here: https://github.com/jiayao09/Wearable_Controller
 
 </br>
 
-## Control by ESP32 cam for facial detection (Pending)
+### Control by ESP32 cam for facial detection (Pending)
 - Add object or color detection
 - Move to detect object position
 
