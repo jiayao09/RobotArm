@@ -39,9 +39,7 @@ Check out more information here: https://github.com/jiayao09/Wearable_Controller
 
 </br>
 
-### Control by ESP32 cam for facial detection (Pending)
+### Control by ESP32 cam for image recognition (Pending)
 - Add object or color detection
 - Move to detect object position
-
-https://user-images.githubusercontent.com/110358483/185725772-699802b4-8d88-4e82-af5d-9a78cac85f4c.mp4
 
