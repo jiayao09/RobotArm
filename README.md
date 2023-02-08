@@ -12,7 +12,9 @@ https://user-images.githubusercontent.com/110358483/185726008-0d00c303-87b9-40a1
 #  RECENT UPDATE:
 I've recently decided to increase the arm's degrees of freedom from 4 to 6. This design demo builds upon the Niryo One concept by adding new elements. The detail drawing and bill of materials (BOM) will be updated later. The new design expands on the original functionality by including new interfaces and hardware.
 
-https://user-images.githubusercontent.com/110358483/216531680-9f43c2e4-7e79-4f10-bad0-22ec088e3362.mp4
+![image](https://user-images.githubusercontent.com/110358483/217668174-f154ac08-14d3-46f3-9299-00e5b8e42595.png)
+
+
 
 
 </br>
