@@ -14,6 +14,7 @@ I've recently decided to increase the arm's degrees of freedom from 4 to 6. This
 
 ![image](https://user-images.githubusercontent.com/110358483/217668174-f154ac08-14d3-46f3-9299-00e5b8e42595.png)
 
+### Check out the development process here:  https://github.com/jiayao09/RobotArm/tree/6-DOF-Robot-Arm
 
 
 
