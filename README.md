@@ -7,6 +7,14 @@ https://user-images.githubusercontent.com/110358483/185725085-09091f4c-c75e-4899
 
 https://user-images.githubusercontent.com/110358483/185726008-0d00c303-87b9-40a1-b045-875e55abf965.mp4
 
+# list of file
+- Detail BOM
+- STL file for 3D printing
+- Laser cutting file for gripper version 2 (optional)
+- Assembly drawings for installation
+- Code for the above video （Control Board：Arduino）
+
+
 </br>
 
 #  RECENT UPDATE:
