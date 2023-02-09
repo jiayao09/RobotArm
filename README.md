@@ -2,10 +2,13 @@
 This a robotic arm with a 4 DOF developed based on MeArm model for further development. Take a look at my BOM and assembly drawing PDF to build the same model.
 (check out start.ino)
 
+<img src="https://user-images.githubusercontent.com/110358483/217950253-55d2c72d-19f0-4276-a32f-84d50591aed0.jpg" width=45% height=20%>
+Figure 1:Robotic arm with Laser cutting update
+</br>
+</br>
+
 https://user-images.githubusercontent.com/110358483/185725085-09091f4c-c75e-4899-8eab-52e4dab4b233.mp4
 
-
-https://user-images.githubusercontent.com/110358483/185726008-0d00c303-87b9-40a1-b045-875e55abf965.mp4
 
 # list of file
 - Detail BOM
@@ -29,6 +32,9 @@ I've recently decided to increase the arm's degrees of freedom from 4 to 6. This
 </br>
 
 # Included Functions:
+### Control by coding
+
+https://user-images.githubusercontent.com/110358483/185726008-0d00c303-87b9-40a1-b045-875e55abf965.mp4
 
 ### Control by phone with the HC-06 Bluetooth module (check out start.ino)
 
