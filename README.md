@@ -22,6 +22,11 @@ Further Plan：
 
 Further Plan：
 - Improve some details (fasteners. wiring, strengthen structure)
+- Base detail (finished) 
+
+<img src="https://user-images.githubusercontent.com/110358483/218883227-5657cfed-86e4-4804-b06e-efb53c76a231.png" width=45% height=20%>
+
+
 - Update BOM and STL file
 
 </br>
