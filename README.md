@@ -1,5 +1,4 @@
-# 6 DOF Robot Arm Development Process Portfolio
-
+# 6 DOF Robot Arm Development Process
 I've recently decided to increase the arm's degrees of freedom from 4 to 6. This design demo builds upon the Niryo One concept by adding new elements. 
 
 
