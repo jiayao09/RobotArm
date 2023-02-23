@@ -23,7 +23,11 @@ Further Plan：
 - Improve some details (fasteners. wiring, strengthen structure)
 - Base detail (finished) 
 
-<img src="https://user-images.githubusercontent.com/110358483/218883227-5657cfed-86e4-4804-b06e-efb53c76a231.png" width=45% height=20%>
+<img src="https://user-images.githubusercontent.com/110358483/218883227-5657cfed-86e4-4804-b06e-efb53c76a231.png" width=45% height=20%><img src="https://user-images.githubusercontent.com/110358483/221021521-7c02e040-e7d2-4044-862d-d4614aeb2ec5.png" width=45% height=50%>
+
+<img src="https://user-images.githubusercontent.com/110358483/221029898-16054fc7-17e2-4f69-ab38-b0aef476f300.png" width=45% height=20%>
+
+Figure 01: Base Assembly (left up) && Shoulder Assembly (right up) && Arm Assembly (left bottom)
 
 
 - Update BOM and STL file
