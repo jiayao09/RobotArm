@@ -17,7 +17,7 @@ Further Plan：
 3. The gripper part of the robot arm is designed to be able to install a variety of parts based on the current work requirements
 4. The control board is temporarily chosen as raspberry Pi, considering that it can work with several different devices later.
 
-![image](https://user-images.githubusercontent.com/110358483/221723509-1887f791-3edb-4034-9b82-a6191026a1d8.png)
+![image](https://user-images.githubusercontent.com/110358483/221735856-c0fc5ab4-da28-4825-b653-8648d81333e6.png)
 
 Further Plan：
 - Improve some details (fasteners. wiring, strengthen structure)
@@ -26,7 +26,8 @@ Further Plan：
 ## Design Detail (02/22/2023)
 <img src="https://user-images.githubusercontent.com/110358483/218883227-5657cfed-86e4-4804-b06e-efb53c76a231.png" width=45% height=20%><img src="https://user-images.githubusercontent.com/110358483/221021521-7c02e040-e7d2-4044-862d-d4614aeb2ec5.png" width=45% height=50%>
 
-<img src="https://user-images.githubusercontent.com/110358483/221029898-16054fc7-17e2-4f69-ab38-b0aef476f300.png" width=45% height=20%><img src="https://user-images.githubusercontent.com/110358483/221722830-9700262c-5925-41bc-8c8e-dc7ff225d33e.png" width=45% height=20%>
+<img src="https://user-images.githubusercontent.com/110358483/221029898-16054fc7-17e2-4f69-ab38-b0aef476f300.png" width=45% height=20%><img src="https://user-images.githubusercontent.com/110358483/221735380-88c7bf51-512e-440d-af95-31e98a2c1fff.png" width=45% height=20%>
+
 
 Figure 01: Base Assembly (left up) && Shoulder Assembly (right up) && Arm Assembly (left bottom) && wrist Assembly
 
