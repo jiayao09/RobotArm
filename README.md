@@ -25,9 +25,9 @@ Further Plan：
 
 <img src="https://user-images.githubusercontent.com/110358483/218883227-5657cfed-86e4-4804-b06e-efb53c76a231.png" width=45% height=20%><img src="https://user-images.githubusercontent.com/110358483/221021521-7c02e040-e7d2-4044-862d-d4614aeb2ec5.png" width=45% height=50%>
 
-<img src="https://user-images.githubusercontent.com/110358483/221029898-16054fc7-17e2-4f69-ab38-b0aef476f300.png" width=45% height=20%>
+<img src="https://user-images.githubusercontent.com/110358483/221029898-16054fc7-17e2-4f69-ab38-b0aef476f300.png" width=45% height=20%><img src="https://user-images.githubusercontent.com/110358483/221722830-9700262c-5925-41bc-8c8e-dc7ff225d33e.png" width=45% height=20%>
 
-Figure 01: Base Assembly (left up) && Shoulder Assembly (right up) && Arm Assembly (left bottom)
+Figure 01: Base Assembly (left up) && Shoulder Assembly (right up) && Arm Assembly (left bottom) && wrist Assembly
 
 
 - Update BOM and STL file
