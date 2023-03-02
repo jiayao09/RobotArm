@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/110358483/185725085-09091f4c-c75e-4899
 #  RECENT UPDATE:
 I've recently decided to increase the arm's degrees of freedom from 4 to 6. This design demo builds upon the Niryo One concept by adding new elements. The detail drawing and bill of materials (BOM) is up-to-date. The new design expands on the original functionality by including new interfaces and hardware.
 
-![image](https://user-images.githubusercontent.com/110358483/217668174-f154ac08-14d3-46f3-9299-00e5b8e42595.png)
+![image](https://user-images.githubusercontent.com/110358483/222578062-7e679069-c9fd-451f-8b8b-3a2d15f2a411.png)
 
 ### Check out the development process here:  https://github.com/jiayao09/RobotArm/tree/6-DOF-Robot-Arm
 
